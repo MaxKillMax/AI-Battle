@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b3762cd003cb0c449e2ebe4ca001121, type: 3}
+  m_Name: Attack
+  m_EditorClassIdentifier: 
+  InitOrder: 0
+  _auraData: {fileID: 11400000, guid: f2f52d152072e2347be238cef6c58fa3, type: 2}
+  _enemyId:
+    _value: 00000000
+  _action:
+    Value: -25
+  _animation:
+    Name: Attack
+    Type: 0
